@@ -24,3 +24,9 @@
 3. Realize o commit (`git commit -m 'mensagem do commit'`)
 4. Realize o push na branch (`git push origin nome-da-branch`)
 5. Abra um Pull Request
+
+## Autores
+
+- **Daniel Freitas Ferreira (DanielFFerreira)** - _Front-end developer_ - [Github](https://github.com/DanielFFerreira)
+
+- **Allan Milani (allanMilani)** - _Full Stack developer_ - [Github](https://github.com/allanMilani)

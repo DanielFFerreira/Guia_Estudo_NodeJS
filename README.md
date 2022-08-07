@@ -15,7 +15,9 @@
 
 1. [Historia](/1-Introducao/1-historia.md)
 
+### Configurando o ambiente
 
+1. [Ambiente windows](/2-Ambiente/1-ambiente-windows.md)
 
 ## Como contribuir
 
